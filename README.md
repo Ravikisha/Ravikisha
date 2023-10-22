@@ -1,4 +1,10 @@
 [![An image of @ravikisha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ravikisha)](https://holopin.io/@ravikisha)
+---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFFFFFDF&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full+stack+developer;%F0%9F%92%BC+Ready+to+work;%F0%9F%8C%90+Bridging+the+gap;%F0%9F%92%A1+Versatile+coder;%F0%9F%A7%A9+Problem-solving+pro;%F0%9F%A4%9D+Agile+collaborator;%F0%9F%8F%97%EF%B8%8F+Code+architect;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+User-focused+visionary;%F0%9F%9B%A0%EF%B8%8F+Tech-savvy+multitasker;%F0%9F%93%9A+Continuous+learner" alt="Text Profile"/>
+</p>
+
+---
 
 # 💫 About Me:
 
@@ -22,7 +28,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ravikisha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ravikisha&theme=onedark)](https://github.com/ravikisha/github-profile-trophy)
 
 ### ✍️ Quote
 
