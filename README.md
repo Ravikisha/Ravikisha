@@ -17,7 +17,53 @@
 ---
 ## 🙋 Profile:
 
-[![](https://visitcount.itsvg.in/api?id=ravikisha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="left">
+
+  <a href="https://github.com/ravikisha/ravikisha">
+  <img src="https://visitcount.itsvg.in/api?id=ravikisha&icon=0&color=0" alt="Profile Count">
+  </a>
+
+ <a href="https://www.hackerrank.com/profile/ravikishan63392">
+    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
+  </a>
+  <a href="https://github.com/ravikisha?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ravikisha?color=yellow&logo=github">
+  </a>
+  <a href="https://twitter.com/@RaviKishan_">
+    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-10+-blue?color=orange&logo=twitter">
+  </a>
+</p>
+
+<!-- <p align="left">
+  <a href="https://github.com/ravikisha/ravikisha">
+    <img src="https://komarev.com/ghpvc/?username=ravikisha&color=red" alt="profile views" />
+  </a>
+  <a href="https://github.com/ravikisha/ravikisha">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
+  </a>
+  <a href="https://stackoverflow.com/users/7103882">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://www.hackerrank.com/ravikisha">
+    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
+  </a>
+  <a href="https://ravikisha.medium.com">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
+  </a>
+  <a href="https://github.com/ravikisha?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ravikisha?color=yellow&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/ravikisha">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+  </a>
+  <a href="https://twitter.com/codemaker2014">
+    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
+  </a>
+  <a href="https://www.facebook.com/vishnu.sivan.754">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
+  </a>
+</p> -->
 
 ---
 
