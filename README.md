@@ -96,9 +96,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ravikisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=ravikisha&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravikisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Ravikisha's GitHub | Stats](https://stats.quine.sh/Ravikisha/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ravikisha) [![Ravikisha's GitHub | Topics Over Time](https://stats.quine.sh/Ravikisha/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ravikisha) [![Ravikisha's GitHub | Languages Over Time](https://stats.quine.sh/Ravikisha/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ravikisha)
-
-<!-- [![bap's GitHub | Dependencies](https://stats.quine.sh/Ravikisha/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap) -->
+[![Ravikisha's GitHub | Stats](https://stats.quine.sh/Ravikisha/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ravikisha) [![Ravikisha's GitHub | Dependencies](https://stats.quine.sh/Ravikisha/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ravikisha) [![Ravikisha's GitHub | Topics Over Time](https://stats.quine.sh/Ravikisha/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ravikisha) [![Ravikisha's GitHub | Languages Over Time](https://stats.quine.sh/Ravikisha/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ravikisha)
 
 ## 🏆 GitHub Trophies
 
