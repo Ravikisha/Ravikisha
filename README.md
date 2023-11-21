@@ -16,17 +16,13 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100065189795125&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravikishan.69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-kishan-62ab51221) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@ravikishan63392) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@RaviKishan_)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://ravikishan.me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100065189795125&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravikishan.69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-kishan-62ab51221) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@ravikishan63392) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@RaviKishan_)
 
 ---
 ## 🙋 Profile:
 
 
 <p align="left">
-  <a href="https://ravikishan.me">
-    <img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-000000?style=flat&logo=google-chrome&logoColor=white">
-  </a>
-
   <a href="https://github.com/ravikisha/ravikisha">
   <img src="https://visitcount.itsvg.in/api?id=ravikisha&icon=0&color=0" alt="Profile Count">
   </a>
@@ -121,4 +117,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ravikisha&theme=onedark)](https://github.com/ravikisha/github-profile-trophy) 
 
-![Ending Poster](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Ending Poster"  />
+</p>
