@@ -36,6 +36,9 @@ align-items: center;
 
 
 <p align="left">
+  <a href="https://ravikishan.me">
+    <img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-000000?style=flat&logo=google-chrome&logoColor=white">
+  </a>
 
   <a href="https://github.com/ravikisha/ravikisha">
   <img src="https://visitcount.itsvg.in/api?id=ravikisha&icon=0&color=0" alt="Profile Count">
@@ -114,16 +117,21 @@ align-items: center;
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ravikisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=ravikisha&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravikisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+|![](https://github-readme-stats.vercel.app/api?username=ravikisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ravikisha&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravikisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical) |
+|:---:|:---:|:---:|
 
-[![Ravikisha's GitHub | Stats](https://stats.quine.sh/Ravikisha/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ravikisha) [![Ravikisha's GitHub | Dependencies](https://stats.quine.sh/Ravikisha/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ravikisha) [![Ravikisha's GitHub | Topics Over Time](https://stats.quine.sh/Ravikisha/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ravikisha) [![Ravikisha's GitHub | Languages Over Time](https://stats.quine.sh/Ravikisha/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ravikisha)
+
+|![Ravikisha's GitHub - Stats](https://stats.quine.sh/Ravikisha/github?theme=dark)| ![Ravikisha's GitHub - Dependencies](https://stats.quine.sh/Ravikisha/dependencies?theme=dark) |
+|:---:|:---:|
+
+|![Ravikisha's GitHub - Topics Over Time](https://stats.quine.sh/Ravikisha/topics-over-time?theme=dark)| ![Ravikisha's GitHub - Languages Over Time](https://stats.quine.sh/Ravikisha/languages-over-time?theme=dark) |
+|:---:|:---:|
+
+| ![GitHub metrics](https://metrics.lecoq.io/ravikisha?languages=1&gists=1&followup=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta&config.animated=true) |
+|:---:|
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ravikisha&theme=onedark)](https://github.com/ravikisha/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ravikisha&theme=onedark)](https://github.com/ravikisha/github-profile-trophy) 
 
-### ✍️ Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+![Ending Poster](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
