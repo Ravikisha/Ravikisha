@@ -6,25 +6,12 @@
 
 ---
 
-<style>
-.aboutMe{
-display: flex;
-flex-direction: row;
-gap: 2rem;
-align-items: center;
-}
-@media only screen and (max-width: 500px) {
-  .aboutMe{
-    display: flex; flex-direction: column;gap: 2rem;px;  align-items: center; width: 80%;
-  }
-}
-</style>
 
 # 💫 About Me:
 
-<div class="aboutMe">
+<div class="aboutMe" style="display: flex;flex-direction: row;gap: 2rem;align-items:center; flex-wrap: wrap;">
 🚀 Full stack developer<br>😎 Always ready for collaboration<br>✴️ Open source projects<br>🛸 Always trying to learn new things<br>🏆 Don't know how to center a div<br>
-<img src="https://live.staticflickr.com/65535/53346516439_f61828a45f_k.jpg" width="200" alt="profile views" />
+<img src="https://i.imgur.com/e7LwlMU.png" width="200" alt="profile avatar octocat" />
 </div>
 
 ## 🌐 Socials:
