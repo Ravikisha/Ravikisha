@@ -10,7 +10,7 @@
 
 <div style="display: flex; flex-direction: row;gap: 2rem;px;  align-items: center; width: 80%;">
 🚀 Full stack developer<br>😎 Always ready for collaboration<br>✴️ Open source projects<br>🛸 Always trying to learn new things<br>🏆 Don't know how to center a div<br>
-<img src="./octocat-1700200726596.png" width="200" alt="profile views" />
+<img src="https://live.staticflickr.com/65535/53346516439_f61828a45f_k.jpg" width="200" alt="profile views" />
 </div>
 
 ## 🌐 Socials:
