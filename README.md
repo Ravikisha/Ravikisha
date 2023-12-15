@@ -19,7 +19,7 @@
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://ravikishan.me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100065189795125&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravikishan.69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-kishan-62ab51221) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@ravikishan63392) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@RaviKishan_)
 
 ---
-## 🙋 Profile:
+## <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width="35"> Profile:
 
 
 <p align="left">
@@ -98,7 +98,7 @@
 | ![Java Android](https://img.shields.io/badge/-Java%20Android-000000?style=flat&logo=android) ![Kotlin Android](https://img.shields.io/badge/-Kotlin%20Android-000000?style=flat&logo=android) ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react) ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter) ![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic) ![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=electron) ![Xamarin](https://img.shields.io/badge/-Xamarin-000000?style=flat&logo=xamarin) |
 </div>
 
-# 📊 GitHub Stats:
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
 
 |![](https://github-readme-stats.vercel.app/api?username=ravikisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ravikisha&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravikisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical) |
 |:---:|:---:|:---:|
