@@ -4,22 +4,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFFFFFDF&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full+stack+developer;%F0%9F%92%BC+Ready+to+work;%F0%9F%8C%90+Bridging+the+gap;%F0%9F%92%A1+Versatile+coder;%F0%9F%A7%A9+Problem-solving+pro;%F0%9F%A4%9D+Agile+collaborator;%F0%9F%8F%97%EF%B8%8F+Code+architect;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+User-focused+visionary;%F0%9F%9B%A0%EF%B8%8F+Tech-savvy+multitasker;%F0%9F%93%9A+Continuous+learner" alt="Text Profile"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" >
 
 
-# 💫 About Me:
 
+# <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" align="center" width="35"> About Me:
 <div class="aboutMe" style="display: flex;flex-direction: row;gap: 2rem;align-items:center; flex-wrap: wrap;">
 🚀 Full stack developer<br>😎 Always ready for collaboration<br>✴️ Open source projects<br>🛸 Always trying to learn new things<br>🏆 Don't know how to center a div<br>
 <img src="https://i.imgur.com/e7LwlMU.png" width="200" alt="profile avatar octocat" />
 </div>
 
-## 🌐 Socials:
+## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="35" align="center"> Socials:
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://ravikishan.me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100065189795125&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravikishan.69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-kishan-62ab51221) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@ravikishan63392) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@RaviKishan_)
 
 ---
-## <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width="35"> Profile:
+## <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" align="center" width="35"> Profile:
 
 
 <p align="left">
@@ -98,7 +98,7 @@
 | ![Java Android](https://img.shields.io/badge/-Java%20Android-000000?style=flat&logo=android) ![Kotlin Android](https://img.shields.io/badge/-Kotlin%20Android-000000?style=flat&logo=android) ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react) ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter) ![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic) ![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=electron) ![Xamarin](https://img.shields.io/badge/-Xamarin-000000?style=flat&logo=xamarin) |
 </div>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center"> GitHub Stats:
 
 |![](https://github-readme-stats.vercel.app/api?username=ravikisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ravikisha&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravikisha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical) |
 |:---:|:---:|:---:|
