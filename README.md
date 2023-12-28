@@ -117,7 +117,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ravikisha&theme=onedark)](https://github.com/ravikisha/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ravikisha&theme=onedark&row=1)](https://github-profile-trophy.vercel.app/?username=ravikisha&theme=onedark&row=1) 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Ending Poster"  />
