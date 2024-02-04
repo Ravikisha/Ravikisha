@@ -16,7 +16,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="35" align="center"> Socials:
 
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://ravikishan.me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100065189795125&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravikishan.69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-kishan-62ab51221) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@ravikishan63392) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@RaviKishan_)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://ravikishan.me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100065189795125&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravikishan.404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-kishan-62ab51221) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@ravikishan63392) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@RaviKishan_)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" >
 
@@ -112,8 +112,6 @@
 |![Ravikisha's GitHub - Topics Over Time](https://stats.quine.sh/Ravikisha/topics-over-time?theme=dark)| ![Ravikisha's GitHub - Languages Over Time](https://stats.quine.sh/Ravikisha/languages-over-time?theme=dark) |
 |:---:|:---:|
 
-| ![GitHub metrics](https://metrics.lecoq.io/ravikisha?languages=1&gists=1&followup=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta&config.animated=true) |
-|:---:|
 
 ## 🏆 GitHub Trophies
 
