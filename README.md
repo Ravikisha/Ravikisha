@@ -117,6 +117,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ravikisha&theme=onedark&row=1)](https://github-profile-trophy.vercel.app/?username=ravikisha&theme=onedark&row=1) 
 
+## 🏗️ Projects
+
+|Project|Tech Stack|Description|
+|---|---|---|
+|![Python Central Hub](https://github-readme-stats.vercel.app/api/pin/?username=ravikisha&repo=pythoncentralhub&theme=dark) | <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python">  <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5"> <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3"> <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript"> <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss"> <img src="https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro"><img src="https://img.shields.io/badge/-markdown-000000?style=flat&logo=markdown"> <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel"> | Python Central Hub is a Python programming language learning platform. |
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Ending Poster"  />
 </p>
